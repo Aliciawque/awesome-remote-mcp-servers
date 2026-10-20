@@ -2002,6 +2002,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dexio](https://dexio.wiki) `https://app.dexio.wiki/mcp`
   [![Dexio MCP connector](https://glama.ai/mcp/connectors/wiki.dexio/dexio/badges/score.svg)](https://glama.ai/mcp/connectors/wiki.dexio/dexio)
   🔐 - One wiki all your agents read and write over MCP, with every version kept and the agent behind each change recorded.
+- [Digital Garden](https://digitalgarden.si/agents/) `https://mcp.digitalgarden.si/mcp`
+  [![Digital Garden MCP connector](https://glama.ai/mcp/connectors/si.digitalgarden.mcp/digital-garden-by-alicia-notes/badges/score.svg)](https://glama.ai/mcp/connectors/si.digitalgarden.mcp/digital-garden-by-alicia-notes)
+  🔓 - Search and cite Alicia’s notes on WebGPU, three.js, Houdini, glTF, OpenUSD and AI workflows.
 - [docs2mcp](https://docs2mcp.com) `https://mcp.docs2mcp.com/mcp`
   [![docs2mcp MCP connector](https://glama.ai/mcp/connectors/com.docs2mcp/docs2mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.docs2mcp/docs2mcp)
   🔐 - Query your own PDFs and documents, with every answer linking to the exact page and region it came from.
